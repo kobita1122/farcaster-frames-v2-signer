@@ -1,0 +1,12 @@
+{
+  "name": "farcaster-frames-v2-signer",
+  "version": "2.0.0",
+  "description": "Cryptographic payload signature validation for Farcaster Frames v2",
+  "main": "serverSigner.js",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ethers": "^6.13.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
